@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luddosaurus
-- 👀 I’m interested in Kotlin, Jetpack compose, Machine learning and IoT!
-- 🌱 I’m currently learning Jetpack compose and Kotlin multiplattform
+- 👀 I’m interested in @Kotlin, @JetpackCompose, @MachineLearning and @IoT!
+- 🌱 I’m currently learning @JetpackCompose and @KMM
 - 💞️ I’m looking to collaborate on something fun?
 - 📫 How to reach me ludde.llj@gmail.com
 
