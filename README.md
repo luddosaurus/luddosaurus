@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luddosaurus
-- 👀 I’m interested in @Kotlin, @JetpackCompose and @MachineLearning!
+- 👀 I’m interested in Kotlin, JetpackCompose and Machine Learning!
 - 🌱 I’m currently doing my master thesis on collaborative robots
 - 📫 How to reach me ludde.llj@gmail.com
 
