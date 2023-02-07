@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luddosaurus
-- 👀 I’m interested in @Kotlin, @JetpackCompose, @MachineLearning and @IoT!
-- 🌱 I’m currently learning @JetpackCompose and @KMM
-- 💞️ I’m looking to collaborate on something fun?
+- 👀 I’m interested in @Kotlin, @JetpackCompose and @MachineLearning!
+- 🌱 I’m currently doing my master thesis on collaborative robots
 - 📫 How to reach me ludde.llj@gmail.com
 
 <!---
