@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luddosaurus
+- 👋 Hi, I’m [@luddosaurus](https://github.com/luddosaurus)
 - 👀 I’m interested in Kotlin, JetpackCompose and Machine Learning!
-- 🌱 I’m currently doing my master thesis on collaborative robots with @Lallivero
+- 🌱 I’m currently doing my master thesis on collaborative robots with [@Lallivero](https://github.com/Lallivero)
 - 📫 How to reach me ludde.llj@gmail.com
 
 <!---
